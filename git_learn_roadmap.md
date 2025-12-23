@@ -47,10 +47,11 @@ i) Unstage changes: git reset <file>
 ii) Discard changes in the working directory: git checkout -- <file>
 iii) Revert commits: git revert <commit-hash>
 iv) Reset to a previous commit: git reset --hard <commit-hash>
-
+```
 # Phase 2: Intermediate Git Concepts
 
 ## 1. Advanced Branching and Merging
+```
 i) Rebase: git rebase and how it differs from merge.
 ii) Interactive rebase: git rebase -i to rewrite history (reorder, squash commits).
 iii) Merge strategies: git merge --no-ff (merge with no fast-forward).
@@ -81,7 +82,7 @@ i) Forking: Fork repositories and contribute to open-source projects.
 ii) Pull requests: How to create and review pull requests.
 iii) GitHub flow: Learn the GitHub workflow for managing features, pull requests, and issues.
 ```
-# Phase 2: Advanced Git Concepts
+# Phase 3: Advanced Git Concepts
 
 ## 1. Git Hooks
 ```
@@ -119,9 +120,9 @@ ii) Example: git bisect start and how to use it for troubleshooting.
 i) Shallow clones: Use --depth for faster clones (useful for large repos).
 ii) Git GC (Garbage Collection): Running git gc to clean up unnecessary files and optimize repository performance.
 ```
-# Phase 3: Git for Collaboration and DevOps (Expert Level)
+# Phase 4: Git for Collaboration and DevOps (Expert Level)
 
-##1. CI/CD Integration with Git
+## 1. CI/CD Integration with Git
 ```
 i) Integrating Git with Continuous Integration (CI) tools like Jenkins, GitHub Actions, or GitLab CI.
 ii) Automating tests, builds, and deployment using Git hooks or CI pipelines.
