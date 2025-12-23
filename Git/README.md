@@ -13,4 +13,6 @@ git config --global int.defaultBranch main
 ### To Check the configuration
 ```
 git config --list --show-origin
+or
+git config --global --list
 ```
