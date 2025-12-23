@@ -29,3 +29,7 @@ if you want to add all the files present in current directory Run the command gi
 ```
 git add .
 ```
+To commit run the command given below
+```
+git commit -m "Your Commit Message"
+```
