@@ -81,7 +81,7 @@ i) Forking: Fork repositories and contribute to open-source projects.
 ii) Pull requests: How to create and review pull requests.
 iii) GitHub flow: Learn the GitHub workflow for managing features, pull requests, and issues.
 ```
-# Phase 3: Advanced Git Concepts
+# Phase 2: Advanced Git Concepts
 
 ## 1. Git Hooks
 ```
@@ -119,7 +119,7 @@ ii) Example: git bisect start and how to use it for troubleshooting.
 i) Shallow clones: Use --depth for faster clones (useful for large repos).
 ii) Git GC (Garbage Collection): Running git gc to clean up unnecessary files and optimize repository performance.
 ```
-# Phase 4: Git for Collaboration and DevOps (Expert Level)
+# Phase 3: Git for Collaboration and DevOps (Expert Level)
 
 ##1. CI/CD Integration with Git
 ```
