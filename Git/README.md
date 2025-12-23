@@ -16,20 +16,20 @@ git config --list --show-origin
 or
 git config --global --list
 ```
-### How to setup a git directory
-go to the path where you want to initialize git repository to track changes in project.
+### Working with git
+#### To initialize.
 ```
 git init
 ```
-To add file so that git can track run the following command
+#### To add specific file 
 ```
 git add <filename>
 ```
-if you want to add all the files present in current directory Run the command given below:-
+#### To add all the files.
 ```
 git add .
 ```
-To commit run the command given below
+#### To commit.
 ```
 git commit -m "Your Commit Message"
 ```
