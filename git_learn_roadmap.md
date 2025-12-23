@@ -1,9 +1,11 @@
 # Phase 1: Basics of Git (Beginner Level)
 
 ## 1. Introduction to Git and Version Control
+```
 i) Understand what Git is and why version control is important.
 ii) Learn about local vs remote repositories.
 iii) Understand the basic concepts of version control (history, snapshots, commits, etc.).
+```
 
 ## 2. Installing Git and Setting Up
 i) Install Git on your operating system (Windows, macOS, Linux).
