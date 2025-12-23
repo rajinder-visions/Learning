@@ -33,3 +33,11 @@ git add .
 ```
 git commit -m "Your Commit Message"
 ```
+#### To Clone a git Project From Remote
+```
+git clone <https://test-user/test.git>
+```
+#### To Check status 
+```
+git status
+```
