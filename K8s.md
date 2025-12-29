@@ -19,7 +19,8 @@ iii) kube-Runtime
 
 ## What is Objects in Kubernetes.
 <pre>
-Objects are Persistent entities in Kubernetes. Kubernetes uses these entities to represent the state of cluster. Specially they can describe:-
+Objects are Persistent entities in Kubernetes. Kubernetes uses these entities to represent the state of cluster. 
+Specially they can describe:-
 <li>
   What Continer applications are running and on which nodes.
   What are the reseources avaialable to those applications.
