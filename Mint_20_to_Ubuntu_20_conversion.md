@@ -2,7 +2,7 @@
 
 ## 🚀 Full Conversion Steps
 
-##🧩 i) listing of packages from known repository:
+## 🧩 i) listing of packages from known repository:
 ```
 cat > find_origin.sh << \EOF
 LC_ALL=C dpkg-query --showformat='${Package}:${Status}\n' -W '*' | \
