@@ -90,11 +90,12 @@ dconf reset -f /org/mate
 gsettings set org.mate.panel default-layout "'default'"
 ```
 
-# Note: Donot Reboot System,
-
 ## xiii) Install MATE Welcome and Software Boutique as Snaps:
 
 ```
 sudo snap install software-boutique --classic
 sudo snap install ubuntu-mate-welcome --classic
 ```
+
+
+# Note: Donot Reboot System
