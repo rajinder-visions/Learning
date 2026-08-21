@@ -263,7 +263,7 @@ services:
     pid: host
     privileged: true
     environment:
-      - CLUSTER_JOIN_ADDR=192.168.25.118      # ← this host's real LAN IP
+      - CLUSTER_JOIN_ADDR=<YOUR SYSTEM IP>      # ← this host's real LAN IP
       - NV_PLATFORM_INFO=platform=Docker
       - CTRL_PERSIST_CONFIG=1                 # persist policy to /var/neuvector
     ports:
